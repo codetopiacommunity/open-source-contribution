@@ -30,6 +30,7 @@ This is a great resource to learn about the Unix shell and the terminal. It will
 
 
 2. [Introduction to Version Control with Git](https://swcarpentry.github.io/git-novice/)
+
 This is a great resource to learn about version control systems and Git. It will help you to understand how to use Git to manage your code and collaborate with others.
 
 After you have completed these resources, you will be ready to start contributing to open-source projects. 
