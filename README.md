@@ -35,5 +35,5 @@ This is a great resource to learn about version control systems and Git. It will
 
 After you have completed these resources, you will be ready to start contributing to open-source projects. 
 
-
-> This project is a work in progress. We will be adding more resources to help you get started with open-source contributions.
+---
+**Note:** This project is a work in progress. We will be adding more resources to help you get started with open-source contributions.
